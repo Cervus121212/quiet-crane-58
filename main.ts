@@ -5,6 +5,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR || '/output'
 const ENTRY_FILE = 'entry.txt'
 
 // The poem — 135 characters, do not alter the text.
+// 135 chars, 5 lines
 const LINES = [
   'We agree: you take this end,',
   'I take that one.',
